@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["HexForm","A dummy container for use inside `#[serde(with)]` attribute."],["TryFromSliceError","Error converting a slice into an array."]],"trait":[["Hex","Provides hex-encoded (de)serialization for `serde`."],["TryFromSlice","Fallible conversion from a byte slice."]]});
